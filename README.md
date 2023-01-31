@@ -34,5 +34,5 @@ I used the skills learned from [DataRockie](https://datarockie.com/) School to c
 <br>
 <br>
 
-**Badge: [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/_qIj3loxRL21CDuHiBOboA?identity__email=kittirot.pannukul%40gmail.com)** <br>
-![Certified Professional Data Analyst Badge](https://api.badgr.io/public/assertions/_qIj3loxRL21CDuHiBOboA/image)
+**Badge: [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/VqEtrARtTLyJLP7Qfv7Puw?identity__email=nidkamol.bo%40gmail.com)** <br>
+![Certified Professional Data Analyst Badge](https://api.badgr.io/public/assertions/VqEtrARtTLyJLP7Qfv7Puw/image)
