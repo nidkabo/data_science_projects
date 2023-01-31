@@ -1,10 +1,11 @@
 # Data Science Projects
-I used the skills learned from [DataRockie](https://datarockie.com/) School to create these projects. The projects are split into 10 topics as follows:
+I used the skills learned from [DataRockie School](https://datarockie.com/) to create these projects. The projects are split into 10 topics as follows:
 
 ## Spreadsheets
-  - [x] [Dynamic Query](Spreadsheets/Spreadsheets_Dynamic_Query.png) -  Queries that return results dynamically  
-  - [x] [Converting Date](Spreadsheets/Spreadsheets_Convert_Date.png) - Converting TH date to EN date
-  - [x] [ID Card Parser](Spreadsheets/Spreadsheets_ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
+  - [x] [Vlookup](Spreadsheets/Vlookup.png) - 
+  - [x] [Dynamic Query](Spreadsheets/Dynamic_Query.png) -  Queries that return results dynamically  
+  - [x] [Converting Date](Spreadsheets/Convert_Date.png) - Converting TH date to EN date
+  - [x] [ID Card Parser](Spreadsheets/ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
 ## SQL Database
   - [x] [restaurant_owner.sql](SQL/restaurant_owner.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 ## R Programming
