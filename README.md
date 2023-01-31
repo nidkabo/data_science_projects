@@ -2,7 +2,7 @@
 I used the skills learned from [DataRockie School](https://bootcamp.datarockie.com/) to create these projects. The projects are split into 10 topics as follows:
 
 ## Spreadsheets
-  - [x] [Vlookup](Spreadsheets/Vlookup.png) - 
+  - [x] [VLOOKUP](Spreadsheets/Vlookup.png) - Using VLOOKUP function for looking up a piece of information in a data set and extracting some corresponding data.
   - [x] [Dynamic Query](Spreadsheets/Dynamic_Query.png) -  Queries that return results dynamically  
   - [x] [Converting Date](Spreadsheets/Convert_Date.png) - Converting TH date to EN date
   - [x] [ID Card Parser](Spreadsheets/ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
