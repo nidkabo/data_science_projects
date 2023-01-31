@@ -1,5 +1,5 @@
 # Data Science Projects
-I used the skills learned from [DataRockie School](https://datarockie.com/) to create these projects. The projects are split into 10 topics as follows:
+I used the skills learned from [DataRockie School](https://bootcamp.datarockie.com/) to create these projects. The projects are split into 10 topics as follows:
 
 ## Spreadsheets
   - [x] [Vlookup](Spreadsheets/Vlookup.png) - 
