@@ -1,5 +1,5 @@
 # Data Science Projects
-I used the skills learned from [DataRockie](https://datarockie.com/) School to create these projects. The projects are split into 10 sprints as follows:
+I used the skills learned from [DataRockie](https://datarockie.com/) School to create these projects. The projects are split into 10 topics as follows:
 
 ## Spreadsheets
   - [x] [Dynamic Query](Spreadsheets/Spreadsheets_Dynamic_Query.png) -  Queries that return results dynamically  
@@ -19,9 +19,9 @@ I used the skills learned from [DataRockie](https://datarockie.com/) School to c
   - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in `R`
   - [ ] [linear regression in Excel/Google Sheets]
   - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in MS Excel
-## Intro to Classical Machine Learning
+## Intro to Machine Learning
   - [ ] [2-3 models using `caret`] 
-## Intro to Python Programming
+## Python Programming
   - [x] [Pao_Ying_Chub.ipynb](Python/HW_Intro_to_Python_programming_Pao_Ying_Chub.ipynb) - An interactive rock-paper-scissors game using `Python`
   - [x] [ATM_OOP.ipynb](Python/HW_Intro_to_Python_programming_ATM.ipynb) - An ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
 ## Essential Python for Data Analyst
