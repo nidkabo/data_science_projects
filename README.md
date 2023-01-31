@@ -1,8 +1,5 @@
 # Data Science Projects
-This is where I collect my data science projects.
-
-**Data Science Bootcamp by [DataRockie](https://datarockie.com/) Projects**
-I used the skills learned from DataRockie School to create these projects. The projects are split into 10 sprints as follows:
+I used the skills learned from [DataRockie](https://datarockie.com/) School to create these projects. The projects are split into 10 sprints as follows:
 
 ## Spreadsheets
   - [x] [Dynamic Query](Spreadsheets/Spreadsheets_Dynamic_Query.png) -  Queries that return results dynamically  
