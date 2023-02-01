@@ -2,11 +2,11 @@
 I used the skills learned from [DataRockie School](https://bootcamp.datarockie.com/) to create these projects. The projects are split into 10 skill topics as follows:
 
 ## Spreadsheets
-  - [x] [Dynamic Query](Spreadsheets/dynamic_query.png) -  Queries that are built dynamically.
-  - [x] [Convert TH to EN Date](Spreadsheets/convert_date.png) - Convert date from Thai date(the Buddhist Era) to English date(the Common Era).
+  - [x] [Dynamic Query](Spreadsheets/dynamic_query.png) -  Queries that are built dynamically to give a desired result.
+  - [x] [Convert TH to EN Date](Spreadsheets/convert_date.png) - Converting dates from Thai date(the Buddhist Era) to English date(the Common Era).
   - [x] [ID Card Parser](Spreadsheets/regex.png) - Using regular expression to parse ID card information into objects that you can work with.
 ## SQL Database
-  - [x] [restaurant_owner.sql](SQL/restaurant_owner.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
+  - [x] [coffee_shop.sql](SQL/coffee_shop.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 ## R Programming
   - [x] [pizza_shop_chatbot.r](R/pizza_shop_chatbot.r) - A rule-based chatbot to order pizza with some dialogue
   - [x] [Pao_Ying_Chub.r](R/Pao_Ying_Chub.r) - An interactive rock-paper-scissors game with a bot
