@@ -18,7 +18,7 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
 ## Statistics
   - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in R.
   - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in MS Excel.
-## Intro to Machine Learning
+## Machine Learning
   - [ ] [2-3 models using `caret`] --->
 ## Python Programming
   - [x] [Rock Paper Scissors](Python/rock_paper_scissors.ipynb) - An interactive game names Rock, Paper, Scissors play with a computer using Python.
