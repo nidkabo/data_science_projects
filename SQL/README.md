@@ -1,10 +1,12 @@
 # SQL
 
+## SQLite:
+
+### SQL Databases
+
 Link to Replit: [SQL/Projects](https://replit.com/@NidkamolBoonyan/SQLProjects)
 
 Link to dbdiagram.io: [coffee_shop_ER_Diagram](https://dbdiagram.io/d/63d263de296d97641d7c4736)
-
-## SQLite:
 
 Coffee Shop database with 5 tables:
 - menu_type
@@ -17,6 +19,6 @@ Coffee Shop database with 5 tables:
 
 [DBML](./coffee_shop_ER_Diagram.dbml)
 
-Query & subquery with cte
+[SQLite](coffee_shop.sql)
 
-[SQL](coffee_shop.sql)
+### Subqueries
