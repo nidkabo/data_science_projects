@@ -1,6 +1,6 @@
 # SQL
 
-Link to Replit: [SQL/Projects](https://replit.com/@NidkamolBoonyan/SQLProjects)
+Link to Replit: [SQL/Projects](https://replit.com/@NidkamolBoonyan/SQLProjects)/n
 Link to dbdiagram.io: [coffee_shop_ER_Diagram](https://dbdiagram.io/d/63d263de296d97641d7c4736)
 
 ## SQLite:
