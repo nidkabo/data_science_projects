@@ -27,7 +27,7 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
   - [x] [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/XSgO9uj6LReVziPJ0fNTsV/YQrdWFO6Trn9Bu1Hp0ALyV/) - Using the `pandas` library to analyze sales data.
   - [x] [API](https://colab.research.google.com/drive/1pMa_yoqvmLmjNHssCTqrMtuO99nzkWez?usp=sharing) - Using Game of Thrones Character API to create a pandas  dataframe.
 ## Dashboard
-  - [x] [Freefire vs. PubG](https://docs.google.com/spreadsheets/d/1JOeTRu1k1t10kQsc9QElX6sZ3smaWZKsgN8ACZn-xw8/edit?usp=sharing) - Dashboard answering user requests.
+  - [x] [Freefire vs. PubG](https://docs.google.com/spreadsheets/d/1JOeTRu1k1t10kQsc9QElX6sZ3smaWZKsgN8ACZn-xw8/edit?usp=sharing) - Dashboard answering user requests with Google Sheets.
 <br>
 <br>
 
