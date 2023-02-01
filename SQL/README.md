@@ -13,9 +13,9 @@ Coffee Shop database with 5 tables:
 - orders
 - order_item
 
-[DBML](./coffee_shop.dbml)
+![ER Diagram](./coffee_shop_ER_Diagram.png)
 
-![dbdiagram](./coffee_shop_ER_Diagram.png)
+[DBML](./coffee_shop_ER_Diagram.dbml)
 
 Query & subquery with cte
 
