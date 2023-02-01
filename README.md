@@ -2,10 +2,9 @@
 I used the skills learned from [DataRockie School](https://bootcamp.datarockie.com/) to create these projects. The projects are split into 10 skill topics as follows:
 
 ## Spreadsheets
-  - [x] [VLOOKUP](Spreadsheets/VLOOKUP.png) - Using VLOOKUP function for looking up a piece of information in a data set and extracting some corresponding data.
-  - [x] [Dynamic Query](Spreadsheets/Dynamic_Query.png) -  Queries that return results dynamically  
-  - [x] [Converting Date](Spreadsheets/Convert_Date.png) - Converting TH date to EN date
-  - [x] [ID Card Parser](Spreadsheets/ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
+  - [x] [Dynamic Query](Spreadsheets/dynamic_query.png) -  Queries that are built dynamically.
+  - [x] [Convert TH to EN Date](Spreadsheets/convert_date.png) - Convert date from Thai date(the Buddhist Era) to English date(the Common Era).
+  - [x] [ID Card Parser](Spreadsheets/regex.png) - Using regular expression to parse ID card information into objects that you can work with.
 ## SQL Database
   - [x] [restaurant_owner.sql](SQL/restaurant_owner.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 ## R Programming
