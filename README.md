@@ -10,16 +10,16 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
   - [x] [Subqueries](https://replit.com/@NidkamolBoonyan/SQLProjects#subqueries/) - Coding SQL to answer two questions with two subqueries using "chinook.db" as a database.
 ## R Programming
   - [x] [Rock Paper Scissors](https://colab.research.google.com/drive/1JlQhGCbcCSe1185fQ2cJuLLgtCswc7X8?usp=sharing) - An interactive game names Rock, Paper, Scissors (also known as Rochambeau, Roshambo, or Janken) play with a computer using R.
-## Data Transformation
-  - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
-  - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in `R` to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL-RPostgreSQL.png)
+<!---## Data Transformation
+  - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in R.
+  - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in R to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL-RPostgreSQL.png).
 ## Data Visualization
-  - [x] [small_chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
+  - [x] [small_chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in R.
 ## Statistics
-  - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in `R`
-  - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in MS Excel
+  - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in R.
+  - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in MS Excel.
 ## Intro to Machine Learning
-  - [ ] [2-3 models using `caret`] 
+  - [ ] [2-3 models using `caret`] --->
 ## Python Programming
   - [x] [Rock Paper Scissors](https://colab.research.google.com/drive/1Z6h1shNY0pRlx-PKkXVMR_djcUSlt_q6?usp=sharing) - An interactive game names Rock, Paper, Scissors play with a computer using Python.
   - [x] [ATM class](https://colab.research.google.com/drive/1b7pse9PSqPhsNcllkZqZfMUmQUwV7hvC?usp=sharing) - ATM class using Object Oriented Programming (OOP) concept containing five methods as functions to interact with a user.
