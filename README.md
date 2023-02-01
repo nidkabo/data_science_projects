@@ -21,11 +21,11 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
 ## Intro to Machine Learning
   - [ ] [2-3 models using `caret`] --->
 ## Python Programming
-  - [x] [Rock Paper Scissors](https://colab.research.google.com/drive/1Z6h1shNY0pRlx-PKkXVMR_djcUSlt_q6?usp=sharing) - An interactive game names Rock, Paper, Scissors play with a computer using Python.
-  - [x] [ATM class](https://colab.research.google.com/drive/1b7pse9PSqPhsNcllkZqZfMUmQUwV7hvC?usp=sharing) - ATM class using Object Oriented Programming (OOP) concept containing five methods as functions to interact with a user.
+  - [x] [Rock Paper Scissors](rock_paper_scissors.ipynb) - An interactive game names Rock, Paper, Scissors play with a computer using Python.
+  - [x] [ATM class](atm_class.ipynb) - ATM class using Object Oriented Programming (OOP) concept containing five methods as functions to interact with a user.
 ## Essential Python for Data Analyst
-  - [x] [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/XSgO9uj6LReVziPJ0fNTsV/YQrdWFO6Trn9Bu1Hp0ALyV/) - Using the `pandas` library to analyze sales data.
-  - [x] [API](https://colab.research.google.com/drive/1pMa_yoqvmLmjNHssCTqrMtuO99nzkWez?usp=sharing) - Using Game of Thrones Character API to create a pandas  dataframe.
+  - [x] [Analyzing Sales Data](analyzing_sales_data.ipynb) - Using the `pandas` library to analyze sales data.
+  - [x] [API](api.ipynb) - Using Game of Thrones Character API to create a pandas dataframe.
 ## Dashboard
   - [x] [Freefire vs. PubG](https://docs.google.com/spreadsheets/d/1JOeTRu1k1t10kQsc9QElX6sZ3smaWZKsgN8ACZn-xw8/edit?usp=sharing) - Dashboard answering user requests with Google Sheets.
 <br>
