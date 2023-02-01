@@ -3,7 +3,7 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
 
 ## Spreadsheets
   - [x] [Dynamic Query](Spreadsheets/dynamic_query.png) -  Queries that are built dynamically to give a desired result.
-  - [x] [Convert TH to EN Date](Spreadsheets/convert_date.png) - Converting dates from Thai date(the Buddhist Era) to English date(the Common Era).
+  - [x] [Convert TH to EN Date](Spreadsheets/convert_date.png) - Converting dates from Thai date (the Buddhist Era) to English date (the Common Era).
   - [x] [ID Card Parser](Spreadsheets/regex.png) - Using regular expression to parse ID card information into objects that you can work with.
 ## SQL Database
   - [x] [coffee_shop.sql](SQL/coffee_shop.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
