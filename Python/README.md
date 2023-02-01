@@ -22,6 +22,6 @@ Link to Jetbrains Datalore: [Final Project - Analyzing Sales Data](https://datal
 
 ### API
 
-Link to Google Colab: [ATM - Python Project](https://colab.research.google.com/drive/1pMa_yoqvmLmjNHssCTqrMtuO99nzkWez?usp=sharing)
+Link to Google Colab: [API - Python](https://colab.research.google.com/drive/1pMa_yoqvmLmjNHssCTqrMtuO99nzkWez?usp=sharing)
 
 or Link to Code: [API](api.ipynb)
