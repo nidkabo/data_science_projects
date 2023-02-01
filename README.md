@@ -9,8 +9,7 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
   - [x] [Coffee Shop Database](https://replit.com/@NidkamolBoonyan/SQLProjects#coffee_shop/) - A small database of the coffee shop containing five tables (PK/FK) with ER Diagram and some examples of using SELECT, WHERE, and JOIN to look for insights from the data.
   - [x] [Subqueries](https://replit.com/@NidkamolBoonyan/SQLProjects#subqueries/) - Coding SQL to answer two questions with two subqueries using "chinook.db" as a database.
 ## R Programming
-  - [x] [pizza_shop_chatbot.r](R/pizza_shop_chatbot.r) - A rule-based chatbot to order pizza with some dialogue
-  - [x] [Pao_Ying_Chub.r](R/Pao_Ying_Chub.r) - An interactive rock-paper-scissors game with a bot
+  - [x] [Rock Paper Scissors](R/rock_paper_scissors.r) - An interactive rock-paper-scissors game with a bot.
 ## Data Transformation
   - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
   - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in `R` to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL-RPostgreSQL.png)
