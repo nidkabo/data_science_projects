@@ -6,7 +6,7 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
   - [x] [Convert TH to EN Date](Spreadsheets/convert_date.png) - Converting dates from Thai date (the Buddhist Era) to English date (the Common Era).
   - [x] [ID Card Parser](Spreadsheets/regex.png) - Using regular expression to parse ID card information into objects that you can work with.
 ## SQL
-  - [x] [Coffee Shop Database](https://replit.com/@NidkamolBoonyan/SQLProjects#coffee_shop/) - A small database of the coffee shop containing five tables (PK/FK) with ER Diagram and some examples of using SELECT, WHERE, and JOIN to look for insights from the data.
+  - [x] [Coffee Shop Database](https://replit.com/@NidkamolBoonyan/SQLProjects#coffee_shop/) - A small database of the coffee shop containing five tables with ER Diagram and some examples of using SELECT, WHERE, and JOIN to look for insights from the data.
   - [x] [Subqueries](https://replit.com/@NidkamolBoonyan/SQLProjects#subqueries/) - SQL Coding to answer two questions with two subqueries using "chinook.db" as a database.
 ## R Programming
   - [x] [Rock Paper Scissors](R/rock_paper_scissors.r) - An interactive game names Rock, Paper, Scissors (also known as Rochambeau, Roshambo, or Janken) play with a computer using R.
