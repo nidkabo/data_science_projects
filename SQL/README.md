@@ -1,6 +1,6 @@
 # SQL
 
-## SQLite:
+## SQLite
 
 ### SQL Databases
 
