@@ -9,6 +9,7 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
   - [x] [Coffee Shop Database](https://replit.com/@NidkamolBoonyan/SQLProjects#coffee_shop/) - A small database of the coffee shop containing five tables with ER Diagram and some examples of using SELECT, WHERE, and JOIN to look for insights from the data.
   - [x] [Subqueries](https://replit.com/@NidkamolBoonyan/SQLProjects#subqueries/) - SQL Coding to answer two questions with two subqueries using "chinook.db" as a database.
 ## R Programming
+  - [x] [Login Function](R/login_function.r) - Login application with a username and password that a user can try three times login attempts.
   - [x] [Rock Paper Scissors](R/rock_paper_scissors.r) - An interactive game names Rock, Paper, Scissors (also known as Rochambeau, Roshambo, or Janken) play with a computer using R.
 <!---## Data Transformation
   - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in R.
