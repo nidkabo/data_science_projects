@@ -1,4 +1,4 @@
-#defining function and set variables
+# defining function and set variables
 rps_game <- function() {
     message("Welcome to Rock Paper Scissors Game!")
     score_player <- 0
@@ -6,13 +6,13 @@ rps_game <- function() {
     draw <- 0
     choices <- c("rock", "paper", "scissors")
 
-    #while loop and get input from both player and computer
+    # while loop and get input from both player and computer
     while(TRUE) {
         message('Please choose "rock" or "paper" or "scissors" to take action or "quit" to leave the game.')
         p_ch <- tolower(readline("Choose your option: "))
         c_ch <- sample(choices, 1)
     
-        ##check who wins
+        ## check who wins
         score <- list(score_player, score_computer, draw)
         if (p_ch == c_ch) {
             message("Player: ",p_ch, " VS. Computer: ",c_ch)
