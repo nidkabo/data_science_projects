@@ -1,5 +1,5 @@
 # username password login application
-## login function that a user can try 3 times of attempts to login
+## login function that a user can try 3 times login attempts
 
 ## import library
 library(glue)
