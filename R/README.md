@@ -13,3 +13,11 @@ or Link to Google Colab: [Rock Paper Scissors - R Project](https://colab.researc
 Link to Code: [Login Function](login_function.r)
 
 ## Data transformation
+
+### dplyr_mtcars
+
+Link to Code: [dplyr_mtcars](dplyr_mtcars.r)
+
+### Diamonds
+
+Link to Code: [Diamonds](diamonds.r)
