@@ -14,6 +14,7 @@ colnames(mtcars)
 ## 4. mutate() => SELECT .. AS new Column
 ## 5. summarise() + group_by() => SELECT country, COUNT(*) FROM customers GROUP BY country;
 
+## select specific columns
 select(mtcars, 1:5)
 
 select(mtcars, 
@@ -25,7 +26,7 @@ select(mtcars, ends_with("p"))
 select(mtcars, contains("a"))
 select(mtcars, carb, everything())
 
-## create new column
+## create new column / change row names to column 'model'
 mtcars$model <- rownames(mtcars)
 rownames(mtcars) <- NULL
 mtcars <- select(mtcars, model, everything())
@@ -53,6 +54,7 @@ mtcars %>%
     select(model, cyl) %>%
     filter( cyl %in% c(6,8) )
 
+## filter with regular expression 'grepl'
 mazda_data <- mtcars %>%
     select(model, mpg, hp, wt, am) %>%
     filter(grepl("^Mazda", model))
