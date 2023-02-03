@@ -11,10 +11,12 @@ I used the skills learned from [DataRockie School](https://bootcamp.datarockie.c
 ## R Programming
   - [x] [Login Function](R/login_function.r) - Login application with a username and password that a user can try three times login attempts.
   - [x] [Rock Paper Scissors](R/rock_paper_scissors.r) - An interactive game names Rock, Paper, Scissors (also known as Rochambeau, Roshambo, or Janken) play with a computer using R.
-<!---## Data Transformation
-  - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in R.
-  - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in R to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL-RPostgreSQL.png).
-## Data Visualization
+## Data Transformation
+  - [x] [dplyr code](R/dplyr_mtcars.r) - Using the 'dplyr' package to manipulate the 'mtcars' data set and some JOIN examples.
+  - [x] [Diamonds](R/diamonds.r) - Dealing with the 'diamonds' data set in the 'tidyverse' package to get the top 10 largest amounts of diamonds data.
+  - [ ] [Analyzing NYC Flights 2013](R/analyzing_nycflights13.ipynb) - Analyzing the `nycflights13` data set using the `dplyr` package in R.
+  - [ ] [RPostgreSQL](R/RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in R to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL_RPostgreSQL.png).
+<!---## Data Visualization
   - [x] [small_chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in R.
 ## Statistics
   - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in R.
