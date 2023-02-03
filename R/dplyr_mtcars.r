@@ -32,7 +32,7 @@ rownames(mtcars) <- NULL
 mtcars <- select(mtcars, model, everything())
 
 ## Data Pipeline %>% (Pipe operator)
-## filter 'row' order by 'column'
+## filter 'row' order by 'column' and keep result in object 'm1'
 m1 <- mtcars %>%
     select(mpg, hp, wt) %>%
     filter(hp < 100 | wt < 2) %>%
@@ -70,7 +70,7 @@ m2 <- mtcars %>%
            ))
 
 ## glimpse data structure
-glimpse(mtcars) # better than str()
+glimpse(mtcars) # display better than str()
 
 ## am => 0=Auto, 1=Manual / replace data in column 'am'
 mtcars <- mtcars %>%
@@ -93,12 +93,11 @@ m3 <- mtcars %>%
     mutate(percent = n/ nrow(mtcars))
 
 ## Read and Write CSV Files
-library(tidyverse)
-write_csv(m3, "summary_mtcars.csv")
+
+write_csv(m3, "summary_mtcars.csv") # Base R use write.csv()
 m3 <- read_csv("summary_mtcars.csv")
 
-
-## Change Data Types
+## Change Data Types / from 'chr' to 'factor'
 mtcars <- mtcars %>%
     mutate(vs = as.factor(vs),
            am = as.factor(am))
@@ -119,7 +118,7 @@ mtcars %>%
 
 write_csv(result, "result.csv")
 
-## JOIN TABLES
+## JOIN TABLES / use default data sets in R
 band_members
 band_instruments
 
