@@ -14,9 +14,9 @@ Link to Code: [Login Function](login_function.r)
 
 ## Data transformation
 
-### dplyr_mtcars
+### dplyr code
 
-Link to Code: [dplyr_mtcars](dplyr_mtcars.r)
+Link to Code: ['dplyr' code](dplyr_mtcars.r)
 
 ### Diamonds
 
