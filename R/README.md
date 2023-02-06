@@ -14,9 +14,9 @@ Link to Code: [Login Function](login_function.r)
 
 ## Data transformation
 
-### dplyr code
+### dplyr Code
 
-Link to Code: ['dplyr' code](dplyr_mtcars.r)
+Link to Code: [dplyr Code](dplyr_mtcars.r)
 
 ### Diamonds
 
@@ -26,6 +26,10 @@ Link to Code: [Diamonds](diamonds.r)
 
 Link to Code: [Analyzing NYC Flights 2013 Data](analyzing_nycflights13.ipynb)
 
+or Link to Google Colab: [Analyzing NYC Flights 2013 Data](https://colab.research.google.com/drive/1Z9tXSKwGnKuTS1MBsprs8dBDhl1X8mwi?usp=sharing)
+
 ### RPostgreSQL
 
 Link to Code: [RPostgreSQL](RPostgreSQL.ipynb)
+
+or Link to Google Colab: [RPostgreSQL](https://colab.research.google.com/drive/1sZVPxWLMkzAXV880QlmAVjVowGwlsKBx?usp=sharing)
