@@ -24,8 +24,8 @@ Link to Code: [Diamonds](diamonds.r)
 
 ### Analyzing NYC Flights 2013 Data
 
-Link to Code: [Analyzing NYC Flights 2013 Data](R/analyzing_nycflights13.ipynb)
+Link to Code: [Analyzing NYC Flights 2013 Data](analyzing_nycflights13.ipynb)
 
 ### RPostgreSQL
 
-Link to Code: [RPostgreSQL](R/RPostgreSQL.ipynb)
+Link to Code: [RPostgreSQL](RPostgreSQL.ipynb)
