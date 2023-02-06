@@ -21,3 +21,11 @@ Link to Code: ['dplyr' code](dplyr_mtcars.r)
 ### Diamonds
 
 Link to Code: [Diamonds](diamonds.r)
+
+### Analyzing NYC Flights 2013 Data
+
+Link to Code: [Analyzing NYC Flights 2013 Data](R/analyzing_nycflights13.ipynb)
+
+### RPostgreSQL
+
+Link to Code: [RPostgreSQL](R/RPostgreSQL.ipynb)
