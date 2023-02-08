@@ -26,6 +26,10 @@ Link to Code: [dplyr diamonds Code](dplyr_diamonds.r)
 
 Link to Code: [dplyr msleep Code](dplyr_msleep.r)
 
+### dplyr join and date Code
+
+Link to Code: [dplyr join and date Code](dplyr_code.r)
+
 ### Analyzing NYC Flights 2013 Data
 
 Link to Code: [Analyzing NYC Flights 2013 Data](analyzing_nycflights13.ipynb)
