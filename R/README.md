@@ -22,6 +22,10 @@ Link to Code: [dplyr mtcars Code](dplyr_mtcars.r)
 
 Link to Code: [dplyr diamonds Code](dplyr_diamonds.r)
 
+### dplyr msleep Code
+
+Link to Code: [dplyr msleep Code](dplyr_msleep.r)
+
 ### Analyzing NYC Flights 2013 Data
 
 Link to Code: [Analyzing NYC Flights 2013 Data](analyzing_nycflights13.ipynb)
