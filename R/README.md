@@ -14,13 +14,13 @@ Link to Code: [Login Function](login_function.r)
 
 ## Data transformation
 
-### dplyr Code
+### dplyr mtcars Code
 
-Link to Code: [dplyr Code](dplyr_mtcars.r)
+Link to Code: [dplyr mtcars Code](dplyr_mtcars.r)
 
-### Diamonds
+### dplyr diamonds Code
 
-Link to Code: [Diamonds](dplyr_diamonds.r)
+Link to Code: [dplyr diamonds Code](dplyr_diamonds.r)
 
 ### Analyzing NYC Flights 2013 Data
 
