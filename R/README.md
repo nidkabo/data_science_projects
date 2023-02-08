@@ -20,7 +20,7 @@ Link to Code: [dplyr Code](dplyr_mtcars.r)
 
 ### Diamonds
 
-Link to Code: [Diamonds](diamonds.r)
+Link to Code: [Diamonds](dplyr_diamonds.r)
 
 ### Analyzing NYC Flights 2013 Data
 
