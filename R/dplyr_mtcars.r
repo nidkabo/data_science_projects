@@ -122,30 +122,3 @@ mtcars %>%
     ) -> result
 
 write_csv(result, "result.csv")
-
-## JOIN TABLES / use default data sets in R
-band_members
-band_instruments
-
-inner_join(band_members,
-           band_instruments,
-           by = "name")
-
-left_join(band_members,
-          band_instruments,
-          by = "name")
-
-right_join(band_members,
-           band_instruments,
-           by = "name") 
-
-full_join(band_members,
-          band_instruments,
-          by = "name")
-
-## refactor
-band_members %>%
-    full_join(band_instruments, 
-              by="name") %>%
-    filter(name %in% c("John", "Paul")) %>%
-    mutate(hello = "OK")
