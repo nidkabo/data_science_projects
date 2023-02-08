@@ -41,3 +41,11 @@ or Link to Google Colab: [Analyzing NYC Flights 2013 Data](https://colab.researc
 Link to Code: [RPostgreSQL](RPostgreSQL.ipynb)
 
 or Link to Google Colab: [RPostgreSQL](https://colab.research.google.com/drive/1sZVPxWLMkzAXV880QlmAVjVowGwlsKBx?usp=sharing)
+
+## Data Visualization
+
+### Visualizing NYC Flights 2013 Data
+
+Link to Code: [Visualizing NYC Flights 2013 Data](viz_nycflights13.ipynb)
+
+or Link to Google Colab: [Visualizing NYC Flights 2013 Data](https://colab.research.google.com/drive/1Cf3C3B0YmSQ3Y1HLlkC24BBj6KiFtbBX?usp=sharing)
