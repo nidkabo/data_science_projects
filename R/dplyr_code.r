@@ -32,29 +32,29 @@ library(tidyverse)
 
 ## ISO-8601 standard
 mydate <- c(
-  "2022-06-30", ## ymd()
+  "2022-06-30",           ## ymd()
   "2025-07-15",
   "2024-12-31"
 )
 
-ymd(mydate) %>% class()
+ymd(mydate) %>% class()   ## -> "Date"
 
 mydate2 <- c(
-  "12-31-2022",
+  "12-31-2022",           ## mdy()
   "11-30-2025",  
   "02-25-2022"
 )
 
-mdy(mydate2) %>% day() #month(), year()
-mdy(mydate2) %>% month(label = TRUE)
-mdy(mydate2) %>% month(label = TRUE, abbr = FALSE)
+mdy(mydate2) %>% day()    ## month(), year()
+mdy(mydate2) %>% month(label = TRUE)     ## ->Dec, Nov, Feb
+mdy(mydate2) %>% month(label = TRUE, abbr = FALSE)     ## ->December, ....
 
 dmy(c("25-05-2022", 
       "25 May 2022",
       "25-May-2022",
-      "25/ May/ 2022"))
+      "25/ May/ 2022"))   ## change to ""xxxx-xx-xx" format
 
-ymd_hms(c(
+ymd_hms(c(                ## hour minute second
   "2022-05-25 10:11:25",
   "2022 May 25th, 10hour 11min 25second"
 ))
@@ -70,7 +70,7 @@ df <- data.frame(
 )
 
 df %>%
-  mutate(date = dmy(date),
+  mutate(date = dmy(date),     ## change date in column 'date' to ISO-8601 standard
          day = day(date),
          month = month(date, label=TRUE),
          year = year(date))
