@@ -32,6 +32,11 @@ rownames(mtcars) <- NULL
 mtcars <- select(mtcars, model, everything())
 
 ## Data Pipeline %>% (Pipe operator)
+mtcars <- mtcars %>%
+  rownames_to_column() %>%
+  rename(model = rowname) %>%
+  as_tibble()
+
 ## filter 'row' order by 'column' and keep result in object 'm1'
 m1 <- mtcars %>%
     select(mpg, hp, wt) %>%
