@@ -52,7 +52,7 @@ avg_sleep_by_vore <- msleep %>%
   summarise(avg_sleeprem = mean(sleep_rem, na.rm=TRUE))
 
 ## case_when() conditional means
-## use hard code from avg_sleep_by_vore
+## use avg_sleeprem from avg_sleep_by_vore
 clean_msleep <- msleep %>% 
   select(vore, sleep_rem) %>%
   mutate(clean_sleep_rem = case_when(
